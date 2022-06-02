@@ -1,7 +1,7 @@
-OS : Windows 10
-Languages : SQL
-Database : Oracle
-Tools : Oracle SQL Developer
+OS : Windows 10   
+Languages : SQL   
+Database : Oracle   
+Tools : Oracle SQL Developer   
 
 chap01 : SELECT문의 기본 형식
 chap02 : WHERE절과 연산자
